@@ -13,20 +13,12 @@ html {
     margin: 0;
 }
 
-h1,
-ul {
-    width: 400px;
-    height: auto;
-    margin: 0 auto;
-}
-
 h1 {
-    text-align: center;
-    margin-top: 2rem;
+    margin: 40px 0 20px 40px;
 }
 
 ul {
-    margin-top: 0.5rem;
+    margin-left: 30px;
 }
 
 ul li {
