@@ -1,0 +1,34 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: inherit;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1,
+ul {
+    width: 400px;
+    height: auto;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+ul {
+    margin-top: 0.5rem;
+}
+
+ul li {
+    padding: 4px;
+}
